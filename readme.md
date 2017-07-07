@@ -2,5 +2,6 @@ S5 DMR datoteke
 
 
 
-# Uvoz
+# Uvoz kontaktov
 ![Import](files/import.png)
+

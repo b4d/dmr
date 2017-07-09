@@ -11,7 +11,7 @@ Preberite obstoječi "codeplug" s postaje in izberite "Contacts".
 
 ![Import](Images/import.png)
 
-Izberite datoteko S5-contacts.txt
+Izberite datoteko ![S5-contacts-CPS_DMR.txt](CPS_DMR/S5-contacts-CPS_DMR.txt)
 
 
 

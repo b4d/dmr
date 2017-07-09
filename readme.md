@@ -9,7 +9,7 @@ Preizkušene postaje:
 
 Preberite obstoječi "codeplug" s postaje in izberite "Contacts".
 
-![Import](files/import.png)
+![Import](Images/import.png)
 
 Izberite datoteko S5-contacts.txt
 

@@ -1,7 +1,6 @@
 # S5 DMR datoteke
 
-Preizkušene postaje:
-    * Retevis RT-8
+
 
 
 
@@ -14,6 +13,8 @@ Preberite obstoječi "codeplug" s postaje in izberite "Contacts".
 Izberite datoteko [S5-contacts-CPS_DMR.txt](CPS_DMR/S5-contacts-CPS_DMR.txt)
 
 
+## Preizkušene postaje
+ * Retevis RT-8
 
 ## Viri
 

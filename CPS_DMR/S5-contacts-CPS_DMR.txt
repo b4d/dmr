@@ -1,5 +1,5 @@
 [CONTACTS]
-count=200
+count=201
 [Contact1]
 0=TG - WW
 1=1
@@ -999,4 +999,9 @@ count=200
 0=S54MTB Marko
 1=2
 2=2930121
+3=0
+[Contact201]
+0=S54AZA Ales
+1=2
+2=2930122
 3=0

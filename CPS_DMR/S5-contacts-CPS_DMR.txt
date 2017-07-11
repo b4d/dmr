@@ -731,7 +731,7 @@ count=201
 2=2930066
 3=0
 [Contact147]
-0=S54S Aleksander
+0=S56AL Aleksander
 1=2
 2=2930067
 3=0

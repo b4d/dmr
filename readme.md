@@ -1,6 +1,6 @@
 # S5 DMR datoteke
 
-
+Ažurna datoteka S5 kontaktov in različnih TG, primerna za uvoz v CPS_DMR in N0GSG programih.
 
 
 
@@ -20,4 +20,5 @@ Izberite datoteko [S5-contacts-CPS_DMR.txt](CPS_DMR/S5-contacts-CPS_DMR.txt)
 
 ## Viri
 
-Osnova za datoteko je pridobljena na spletni strani ham-dmr.si
+Osnova za datoteko je pridobljena na spletni strani http://ham-dmr.si
+Podatki pridobljeni s spletne strani http://ham-digital.org

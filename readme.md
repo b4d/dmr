@@ -6,6 +6,8 @@
 
 ## Uvoz kontaktov v CPS_DMR programu
 
+POZOR: UVOZ KONTAKTOV PREPIŠE OBSTOJEČE KONTAKTE V CODEPLUG-U, PRED UVOZOM NAREDITE VARNOSTNO KOPIJO!
+
 Preberite obstoječi "codeplug" s postaje in izberite "Contacts".
 
 ![Import](Images/import.png)

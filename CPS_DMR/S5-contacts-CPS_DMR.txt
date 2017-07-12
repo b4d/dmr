@@ -1,112 +1,112 @@
 [CONTACTS]
 count=201
 [Contact1]
-0=TG - WW
+0=TG WW
 1=1
 2=1
 3=0
 [Contact2]
-0=TG - EU
+0=TG EU
 1=1
 2=2
 3=0
 [Contact3]
-0=TG - N America
+0=TG N America
 1=1
 2=3
 3=0
 [Contact4]
-0=TG - *Asia
+0=TG *Asia
 1=1
 2=4
 3=0
 [Contact5]
-0=TG - *Oceania
+0=TG *Oceania
 1=1
 2=5
 3=0
 [Contact6]
-0=TG - *Africa
+0=TG *Africa
 1=1
 2=6
 3=0
 [Contact7]
-0=TG - America
+0=TG America
 1=1
 2=7
 3=0
 [Contact8]
-0=TG - Regional
+0=TG Regional
 1=1
 2=8
 3=0
 [Contact9]
-0=TG - Lokal/Refl.
+0=TG Local/Refl.
 1=1
 2=9
 3=0
 [Contact10]
-0=TG - WW-deut.
+0=TG WW-deut.
 1=1
 2=10
 3=0
 [Contact11]
-0=TG - WW-franz.
+0=TG WW-franz.
 1=1
 2=11
 3=0
 [Contact12]
-0=TG - WW-niedrl.
+0=TG WW-niedrl.
 1=1
 2=12
 3=0
 [Contact13]
-0=TG - WW-engl.
+0=TG WW-engl.
 1=1
 2=13
 3=0
 [Contact14]
-0=TG - WW-span.
+0=TG WW-span.
 1=1
 2=14
 3=0
 [Contact15]
-0=TG - WW-port.
+0=TG WW-port.
 1=1
 2=15
 3=0
 [Contact16]
-0=TG - WW-ital.
+0=TG WW-ital.
 1=1
 2=16
 3=0
 [Contact17]
-0=TG - WW-nordisch
+0=TG WW-nordisch
 1=1
 2=17
 3=0
 [Contact18]
-0=TG - WW-rus.
+0=TG WW-rus.
 1=1
 2=18
 3=0
 [Contact19]
-0=TG - WW-frei
+0=TG WW-frei
 1=1
 2=19
 3=0
 [Contact20]
-0=TG - DACH
+0=TG DACH
 1=1
 2=20
 3=0
 [Contact21]
-0=TG - EU-franz.
+0=TG EU-franz.
 1=1
 2=21
 3=0
 [Contact22]
-0=TG - EU-niederl.
+0=TG EU-niederl.
 1=1
 2=22
 3=0
@@ -116,182 +116,182 @@ count=201
 2=23
 3=0
 [Contact24]
-0=TG - S
+0=TG S
 1=1
 2=24
 3=0
 [Contact25]
-0=TG - WW
+0=TG WW
 1=1
 2=91
 3=0
 [Contact26]
-0=TG - EU
+0=TG EU
 1=1
 2=92
 3=0
 [Contact27]
-0=TG - Simplex
+0=Simplex
 1=1
 2=99
 3=0
 [Contact28]
-0=TG - NL
+0=TG NL
 1=1
 2=204
 3=0
 [Contact29]
-0=TG - SV
+0=TG SV
 1=1
 2=202
 3=0
 [Contact30]
-0=TG - ON
+0=TG ON
 1=1
 2=206
 3=0
 [Contact31]
-0=TG - PA
+0=TG PA
 1=1
 2=207
 3=0
 [Contact32]
-0=TG - F
+0=TG F
 1=1
 2=208
 3=0
 [Contact33]
-0=TG - EA
+0=TG EA
 1=1
 2=214
 3=0
 [Contact34]
-0=TG - HA
+0=TG HA
 1=1
 2=216
 3=0
 [Contact35]
-0=TG - 9A
+0=TG 9A
 1=1
 2=219
 3=0
 [Contact36]
-0=TG - YU
+0=TG YU
 1=1
 2=220
 3=0
 [Contact37]
-0=TG - I
+0=TG I
 1=1
 2=222
 3=0
 [Contact38]
-0=TG - RO
+0=TG RO
 1=1
 2=226
 3=0
 [Contact39]
-0=TG - CH
+0=TG CH
 1=1
 2=228
 3=0
 [Contact40]
-0=TG - OK
+0=TG OK
 1=1
 2=230
 3=0
 [Contact41]
-0=TG - OM
+0=TG OM
 1=1
 2=231
 3=0
 [Contact42]
-0=TG - OE
+0=TG OE
 1=1
 2=232
 3=0
 [Contact43]
-0=TG - OZ
+0=TG OZ
 1=1
 2=238
 3=0
 [Contact44]
-0=TG - SA
+0=TG SA
 1=1
 2=240
 3=0
 [Contact45]
-0=TG - LA
+0=TG LA
 1=1
 2=242
 3=0
 [Contact46]
-0=TG - GB
+0=TG GB
 1=1
 2=235
 3=0
 [Contact47]
-0=TG - FIN
+0=TG FIN
 1=1
 2=244
 3=0
 [Contact48]
-0=TG - R0
+0=TG R0
 1=1
 2=250
 3=0
 [Contact49]
-0=TG - UR
+0=TG UR
 1=1
 2=255
 3=0
 [Contact50]
-0=TG - SP
+0=TG SP
 1=1
 2=260
 3=0
 [Contact51]
-0=TG - DL
+0=TG DL
 1=1
 2=262
 3=0
 [Contact52]
-0=TG - CT
+0=TG CT
 1=1
 2=268
 3=0
 [Contact53]
-0=TG - EI
+0=TG EI
 1=1
 2=272
 3=0
 [Contact54]
-0=TG - TA
+0=TG TA
 1=1
 2=286
 3=0
 [Contact55]
-0=TG - Z3
+0=TG Z3
 1=1
 2=294
 3=0
 [Contact56]
-0=TG - SLO
+0=TG S5
 1=1
 2=293
 3=0
 [Contact57]
-0=TG - Kanada
+0=TG Canada
 1=1
 2=302
 3=0
 [Contact58]
-0=TG - Trennen
+0=TG Trennen
 1=1
 2=400
 3=0
 [Contact59]
-0=TG - USA
+0=TG USA
 1=1
 2=3100
 3=0
@@ -326,7 +326,7 @@ count=201
 2=5060
 3=0
 [Contact66]
-0=TG - Echo
+0=Echo
 1=2
 2=9990
 3=0

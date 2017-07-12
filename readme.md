@@ -21,4 +21,5 @@ Izberite datoteko [S5-contacts-CPS_DMR.txt](CPS_DMR/S5-contacts-CPS_DMR.txt)
 ## Viri
 
 Osnova za datoteko je pridobljena na spletni strani http://ham-dmr.si
-Podatki pridobljeni s spletne strani http://ham-digital.org
+
+Podatki o registriranih DMR ID številkah pridobljeni s spletne strani http://ham-digital.org

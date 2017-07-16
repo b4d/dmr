@@ -1,5 +1,5 @@
 [CONTACTS]
-count=201
+count=202
 [Contact1]
 0=TG WW
 1=1
@@ -1004,4 +1004,9 @@ count=201
 0=S54AZA Ales
 1=2
 2=2930122
+3=0
+[Contact202]
+0=S51KZ Goldy
+1=2
+2=2930123
 3=0

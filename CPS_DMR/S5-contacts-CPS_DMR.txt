@@ -1,5 +1,5 @@
 [CONTACTS]
-count=202
+count=204
 [Contact1]
 0=TG WW
 1=1
@@ -1009,4 +1009,14 @@ count=202
 0=S51KZ Goldy
 1=2
 2=2930123
+3=0
+[Contact203]
+0=S59GCD RK Lasko
+1=2
+2=2930124
+3=0
+[Contact204]
+0=S56VTV Janez
+1=2
+2=2930125
 3=0

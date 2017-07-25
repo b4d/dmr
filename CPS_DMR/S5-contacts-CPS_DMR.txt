@@ -1,5 +1,5 @@
 [CONTACTS]
-count=204
+count=206
 [Contact1]
 0=TG WW
 1=1
@@ -1019,4 +1019,14 @@ count=204
 0=S56VTV Janez
 1=2
 2=2930125
+3=0
+[Contact205]
+0=S52HI Kojot
+1=2
+2=2930126
+3=0
+[Contact206]
+0=S56SIJ Ursulinka
+1=2
+2=2930127
 3=0

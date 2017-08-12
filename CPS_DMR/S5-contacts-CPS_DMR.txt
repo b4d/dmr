@@ -1,5 +1,5 @@
 [CONTACTS]
-count=206
+count=211
 [Contact1]
 0=TG WW
 1=1
@@ -1029,4 +1029,29 @@ count=206
 0=S56SIJ Ursulinka
 1=2
 2=2930127
+3=0
+[Contact207]
+0=S56RIR Martin
+1=2
+2=2930128
+3=0
+[Contact208]
+0=S56WBV Peter
+1=2
+2=2930129
+3=0
+[Contact209]
+0=S52ME Bojan
+1=2
+2=2930130
+3=0
+[Contact210]
+0=S51KM Mirko
+1=2
+2=2930131
+3=0
+[Contact211]
+0=S56OA Ogo
+1=2
+2=2930132
 3=0

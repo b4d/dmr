@@ -1,5 +1,5 @@
 [CONTACTS]
-count=211
+count=213
 [Contact1]
 0=TG WW
 1=1
@@ -961,97 +961,107 @@ count=211
 2=2930112
 3=0
 [Contact193]
+0=S51UL Ivo
+1=2
+2=2930113
+3=0
+[Contact194]
 0=S56AFJ Janko
 1=2
 2=2930114
 3=0
-[Contact194]
+[Contact195]
 0=S52MB Franc
 1=2
 2=2930115
 3=0
-[Contact195]
+[Contact196]
 0=S56VDK ?
 1=2
 2=2930116
 3=0
-[Contact196]
+[Contact197]
 0=S52AS Roman
 1=2
 2=2930117
 3=0
-[Contact197]
+[Contact198]
 0=S56SPT Peter
 1=2
 2=2930118
 3=0
-[Contact198]
+[Contact199]
 0=S54AJE Anze
 1=2
 2=2930119
 3=0
-[Contact199]
+[Contact200]
 0=S59DJR RK NM
 1=2
 2=2930120
 3=0
-[Contact200]
+[Contact201]
 0=S54MTB Marko
 1=2
 2=2930121
 3=0
-[Contact201]
+[Contact202]
 0=S54AZA Ales
 1=2
 2=2930122
 3=0
-[Contact202]
+[Contact203]
 0=S51KZ Goldy
 1=2
 2=2930123
 3=0
-[Contact203]
+[Contact204]
 0=S59GCD RK Lasko
 1=2
 2=2930124
 3=0
-[Contact204]
+[Contact205]
 0=S56VTV Janez
 1=2
 2=2930125
 3=0
-[Contact205]
+[Contact206]
 0=S52HI Kojot
 1=2
 2=2930126
 3=0
-[Contact206]
+[Contact207]
 0=S56SIJ Ursulinka
 1=2
 2=2930127
 3=0
-[Contact207]
+[Contact208]
 0=S56RIR Martin
 1=2
 2=2930128
 3=0
-[Contact208]
+[Contact209]
 0=S56WBV Peter
 1=2
 2=2930129
 3=0
-[Contact209]
+[Contact210]
 0=S52ME Bojan
 1=2
 2=2930130
 3=0
-[Contact210]
+[Contact211]
 0=S51KM Mirko
 1=2
 2=2930131
 3=0
-[Contact211]
+[Contact212]
 0=S56OA Ogo
 1=2
 2=2930132
+3=0
+[Contact213]
+0=S55TZ Tomaz
+1=2
+2=2930133
 3=0

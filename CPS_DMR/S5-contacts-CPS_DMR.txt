@@ -1,5 +1,5 @@
 [CONTACTS]
-count=213
+count=214
 [Contact1]
 0=TG WW
 1=1
@@ -1064,4 +1064,9 @@ count=213
 0=S55TZ Tomaz
 1=2
 2=2930133
+3=0
+[Contact214]
+0=S56JPS Janez
+1=2
+2=2930134
 3=0

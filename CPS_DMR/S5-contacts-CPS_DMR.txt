@@ -1,5 +1,5 @@
 [CONTACTS]
-count=214
+count=217
 [Contact1]
 0=TG WW
 1=1
@@ -1069,4 +1069,19 @@ count=214
 0=S56JPS Janez
 1=2
 2=2930134
+3=0
+[Contact215]
+0=S56EPN Marcel
+1=2
+2=2930135
+3=0
+[Contact216]
+0=S56SCI Marjan 2
+1=2
+2=1930136
+3=0
+[Contact217]
+0=S55WT Janko
+1=2
+2=1930137
 3=0

@@ -1,5 +1,5 @@
 [CONTACTS]
-count=217
+count=218
 [Contact1]
 0=TG WW
 1=1
@@ -1084,4 +1084,9 @@ count=217
 0=S55WT Janko
 1=2
 2=1930137
+3=0
+[Contact218]
+0=S50ZR Zelko 2
+1=2
+2=1930138
 3=0

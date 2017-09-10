@@ -1,5 +1,5 @@
 [CONTACTS]
-count=219
+count=222
 [Contact1]
 0=TG WW
 1=1
@@ -1094,4 +1094,19 @@ count=219
 0=S57JZ Jozko
 1=2
 2=1930139
+3=0
+[Contact220]
+0=S56GCX Janez
+1=2
+2=1930140
+3=0
+[Contact221]
+0=S56GCY Vanja
+1=2
+2=1930141
+3=0
+[Contact222]
+0=S57KRN Rok
+1=2
+2=1930142
 3=0

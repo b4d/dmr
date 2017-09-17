@@ -1,5 +1,5 @@
 [CONTACTS]
-count=222
+count=229
 [Contact1]
 0=TG WW
 1=1
@@ -1109,4 +1109,39 @@ count=222
 0=S57KRN Rok
 1=2
 2=1930142
+3=0
+[Contact223]
+0=S50AKR ARON Gor.
+1=2
+2=2930143
+3=0
+[Contact224]
+0=S57R Janko
+1=2
+2=2930144
+3=0
+[Contact225]
+0=S57AJJ Jure
+1=2
+2=2930145
+3=0
+[Contact226]
+0=S51ZZ Vojko
+1=2
+2=2930146
+3=0
+[Contact227]
+0=S56ECR Miha
+1=2
+2=2930147
+3=0
+[Contact228]
+0=S50VZZ Vezist
+1=2
+2=2930148
+3=0
+[Contact229]
+0=S56PB Bogo
+1=2
+2=2930149
 3=0

@@ -1,5 +1,5 @@
 [CONTACTS]
-count=229
+count=231
 [Contact1]
 0=TG WW
 1=1
@@ -1144,4 +1144,14 @@ count=229
 0=S56PB Bogo
 1=2
 2=2930149
+3=0
+[Contact230]
+0=S58LA Spela
+1=2
+2=2930150
+3=0
+[Contact231]
+0=S55MA Andrej
+1=2
+2=2930151
 3=0

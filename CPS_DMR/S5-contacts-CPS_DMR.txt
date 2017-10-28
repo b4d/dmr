@@ -1,5 +1,5 @@
 [CONTACTS]
-count=231
+count=234
 [Contact1]
 0=TG WW
 1=1
@@ -1154,4 +1154,19 @@ count=231
 0=S55MA Andrej
 1=2
 2=2930151
+3=0
+[Contact232]
+0=S56BLG Drago
+1=2
+2=2930152
+3=0
+[Contact233]
+0=S55RD Renato
+1=2
+2=2930153
+3=0
+[Contact234]
+0=S55V Viktor
+1=2
+2=2930154
 3=0

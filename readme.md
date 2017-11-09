@@ -28,3 +28,7 @@ Podatki o registriranih DMR ID številkah pridobljeni s spletne strani http://ha
 ## Zanimive povezave
 
 [http://web1.foxhollow.ca/dmr/Contacts/MD380/]
+
+## Ostalo
+
+Datoteke na gitlab bodo pobrisane.

@@ -1,5 +1,5 @@
 [CONTACTS]
-count=234
+count=239
 [Contact1]
 0=TG WW
 1=1
@@ -1169,4 +1169,29 @@ count=234
 0=S55V Viktor
 1=2
 2=2930154
+3=0
+[Contact235]
+0=S56UVB Bogomir
+1=2
+2=2930155
+3=0
+[Contact236]
+0=S56DE Denis
+1=2
+2=2930156
+3=0
+[Contact237]
+0=S53DGM RK Marmor
+1=2
+2=2930157
+3=0
+[Contact238]
+0=S57KZS Stojan
+1=2
+2=2930158
+3=0
+[Contact239]
+0=S59DSC R Sentjur
+1=2
+2=2930159
 3=0

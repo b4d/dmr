@@ -1,8 +1,10 @@
 ﻿# S5 DMR datoteke
 
+Codeplugi za S5 in nekaj drugih držav.
+
 Ažurna datoteka S5 kontaktov in različnih TG, primerna za uvoz v CPS_DMR in N0GSG programih.
 
-
+Vabljeni k prispevanju datotek, predlogov in popravkov.
 
 ## Uvoz kontaktov v CPS_DMR programu
 
@@ -31,4 +33,6 @@ Podatki o registriranih DMR ID številkah pridobljeni s spletne strani http://ha
 
 ## Ostalo
 
-Datoteke na gitlab bodo pobrisane.
+Repozitorij na Gitlab.com ni več aktualen, datoteke bodo v kratkem pobrisane.
+
+*Pred nalaganjem codeplugov nujno zamenjajte ID številko s svojo!*

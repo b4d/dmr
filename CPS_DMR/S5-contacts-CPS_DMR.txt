@@ -1,5 +1,5 @@
 [CONTACTS]
-count=245
+count=247
 [Contact1]
 0=TG WW
 1=1
@@ -1224,4 +1224,14 @@ count=245
 0=S59F Ivo
 1=2
 2=2930165
+3=0
+[Contact246]
+0=S57H Albin
+1=2
+2=2930166
+3=0
+[Contact247]
+0=S57ZS Zdravko
+1=2
+2=2930167
 3=0

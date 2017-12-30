@@ -1,5 +1,5 @@
 [CONTACTS]
-count=250
+count=252
 [Contact1]
 0=TG WW
 1=1
@@ -1249,4 +1249,14 @@ count=250
 0=S57P Peter
 1=2
 2=2930170
+3=0
+[Contact251]
+0=S56RGA Agar
+1=2
+2=2930171
+3=0
+[Contact252]
+0=S56GGRY Irena
+1=2
+2=2930172
 3=0

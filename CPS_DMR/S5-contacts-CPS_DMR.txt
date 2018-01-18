@@ -1,5 +1,5 @@
 [CONTACTS]
-count=252
+count=258
 [Contact1]
 0=TG WW
 1=1
@@ -1256,7 +1256,37 @@ count=252
 2=2930171
 3=0
 [Contact252]
-0=S56GGRY Irena
+0=S56GRY Irena
 1=2
-2=2930172
+2=2930174
+3=0
+[Contact253]
+0=S57ID Danilo
+1=2
+2=2930175
+3=0
+[Contact254]
+0=S53CL Luka
+1=2
+2=2930176
+3=0
+[Contact255]
+0=S56IAK Ales
+1=2
+2=2930177
+3=0
+[Contact256]
+0=S56GD Danilo
+1=2
+2=2930178
+3=0
+[Contact257]
+0=S56AX Luka
+1=2
+2=2930179
+3=0
+[Contact258]
+0=S59AN Aneja
+1=2
+2=2930180
 3=0

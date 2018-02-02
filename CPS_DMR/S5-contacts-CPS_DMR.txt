@@ -1,5 +1,5 @@
 [CONTACTS]
-count=262
+count=266
 [Contact1]
 0=TG WW
 1=1
@@ -1309,4 +1309,24 @@ count=262
 0=S57CBR ???
 1=2
 2=2930183
+3=0
+[Contact263]
+0=S51VC Max
+1=2
+2=2930184
+3=0
+[Contact264]
+0=S59ACP RK Elektr
+1=2
+2=2930185
+3=0
+[Contact265]
+0=S56IPS Samo
+1=2
+2=2930186
+3=0
+[Contact266]
+0=S53JN Jozica
+1=2
+2=2930187
 3=0

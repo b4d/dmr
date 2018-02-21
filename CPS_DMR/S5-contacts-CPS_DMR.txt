@@ -1,5 +1,5 @@
 [CONTACTS]
-count=266
+count=269
 [Contact1]
 0=TG WW
 1=1
@@ -1329,4 +1329,19 @@ count=266
 0=S53JN Jozica
 1=2
 2=2930187
+3=0
+[Contact267]
+0=S53EL Matjaz
+1=2
+2=2930188
+3=0
+[Contact268]
+0=S56VOM Matjaz
+1=2
+2=2930189
+3=0
+[Contact269]
+0=S56PIV Jakob
+1=2
+2=2930190
 3=0

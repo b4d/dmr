@@ -1,5 +1,5 @@
 [CONTACTS]
-count=269
+count=274
 [Contact1]
 0=TG WW
 1=1
@@ -1344,4 +1344,29 @@ count=269
 0=S56PIV Jakob
 1=2
 2=2930190
+3=0
+[Contact270]
+0=S56BWZ Rado
+1=2
+2=2930192
+3=0
+[Contact271]
+0=S57JEL Franko
+1=2
+2=2930193
+3=0
+[Contact272]
+0=S54B Tilen
+1=2
+2=2930194
+3=0
+[Contact273]
+0=S55DJ Drago
+1=2
+2=2930195
+3=0
+[Contact274]
+0=S56KHL Erik
+1=2
+2=2930196
 3=0

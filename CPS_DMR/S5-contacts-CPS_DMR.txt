@@ -1,5 +1,5 @@
 [CONTACTS]
-count=299
+count=309
 [Contact1]
 0=TG WW
 1=1
@@ -1494,4 +1494,54 @@ count=299
 0=S57JTI Jan
 1=2
 2=2930218
+3=0
+[Contact300]
+0=S57NAD Andrej
+1=2
+2=2930220
+3=0
+[Contact301]
+0=S50DK Drago
+1=2
+2=2930221
+3=0
+[Contact302]
+0=S56B Andreja
+1=2
+2=2930222
+3=0
+[Contact303]
+0=S56MNZ Matic
+1=2
+2=2930223
+3=0
+[Contact304]
+0=S57BIT Kazimir
+1=2
+2=2930224
+3=0
+[Contact305]
+0=S51OZ Zvezdan
+1=2
+2=2930225
+3=0
+[Contact306]
+0=S57YX Slavko
+1=2
+2=2930226
+3=0
+[Contact307]
+0=S57MDS Damjan
+1=2
+2=2930227
+3=0
+[Contact308]
+0=S56KLM Bojan
+1=2
+2=2930228
+3=0
+[Contact309]
+0=S54BB Biserka
+1=2
+2=2930229
 3=0

@@ -1,5 +1,5 @@
 [CONTACTS]
-count=309
+count=312
 [Contact1]
 0=TG WW
 1=1
@@ -1544,4 +1544,19 @@ count=309
 0=S54BB Biserka
 1=2
 2=2930229
+3=0
+[Contact310]
+0=S55DD Darko
+1=2
+2=2930230
+3=0
+[Contact311]
+0=S53EFI Franci
+1=2
+2=2930231
+3=0
+[Contact312]
+0=S56RZI Miha
+1=2
+2=2930232
 3=0

@@ -1,4 +1,4 @@
-﻿# S5 DMR datoteke
+﻿# S5 DMR
 
 Codeplugi za S5 in nekaj drugih držav.
 
@@ -31,8 +31,6 @@ Podatki o registriranih DMR ID številkah pridobljeni s spletne strani http://ha
 
 [http://web1.foxhollow.ca/dmr/Contacts/MD380/]
 
-## Ostalo
 
-Repozitorij na Gitlab.com ni več aktualen, datoteke bodo v kratkem pobrisane.
 
 *Pred nalaganjem codeplugov nujno zamenjajte ID številko s svojo!*

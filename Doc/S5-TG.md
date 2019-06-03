@@ -25,6 +25,8 @@ Permanent:
 * 29311 Krsko, Sevnica (Posavje)
 * 29312 Slovenj Gradec (Koroska)
 * 29313 Trbovlje, Zagorje, Hrastnik (Zasavje)
+* 29314 RPT link 1
+* 29315 RPT link 2
 * 293112 ARON (Slovenija)
 * 9 Local/Reflektor (Lokalno)
 

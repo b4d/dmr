@@ -4,6 +4,10 @@ Codeplugi za S5 in nekaj drugih držav.
 
 Ažurna datoteka S5 kontaktov in različnih TG, primerna za uvoz v CPS_DMR in N0GSG programih.
 
+* [S5 RPT](Doc/S5-RPT.md)
+* [S5 TG](Doc/S5-TG.md)
+
+
 Vabljeni k prispevanju datotek, predlogov in popravkov.
 
 ## Uvoz kontaktov v CPS_DMR programu

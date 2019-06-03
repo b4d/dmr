@@ -16,6 +16,7 @@ Permanent:
 * 2933 Celje (Zahodna štajerska)
 * 2934 Kranj (Gorenjska)
 * 2935 Nova Gorica (Primorska)
+* 29351 ?
 * 2936 Koper (Obala)
 * 2937 Novo mesto (Dolenjska)
 * 2938 Murska Sobota (Pomurje)

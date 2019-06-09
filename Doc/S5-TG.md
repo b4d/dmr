@@ -29,7 +29,9 @@ Permanent:
 * 29315 RPT link 2
 * 293112 ARON (Slovenija)
 * 9 Local/Reflektor (Lokalno)
+* 91 World Wide [hose](https://hose.brandmeister.network/group/91/) - [LH](https://brandmeister.network/?page=lh&jsonquery=%7B%22condition%22%3A%22AND%22%2C%22rules%22%3A%5B%7B%22id%22%3A%22DestinationID%22%2C%22field%22%3A%22DestinationID%22%2C%22type%22%3A%22integer%22%2C%22input%22%3A%22text%22%2C%22operator%22%3A%22equal%22%2C%22value%22%3A%2291%22%7D%5D%7D)
 
+https://www.pistar.uk/dmr_bm_talkgroups.php
 
 **Tilen Cestnik** via Facebook: V S5 DMR omrežju se uporabljata dva time slota (dve časovni okni) in sicer :
 

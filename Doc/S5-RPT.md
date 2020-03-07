@@ -20,8 +20,8 @@ Number | Name (LH) | City | TS1 | TS2 | TX | RX | CC
 [293016](https://brandmeister.network/?page=repeater&id=293016) | [S55DCE](https://brandmeister.network/?page=lh&ContextID=%5E293016$) | Celje | 293, 293112 | 2933 | 438.5 | 430.9 | 3 
 [293017](https://brandmeister.network/?page=repeater&id=293017) | [S55UTB](https://brandmeister.network/?page=lh&ContextID=%5E293017$) | Zgornji Kocjan, Radenci | 293, 293112 | 2938 | 438.725 | 431.125 | 1 
 [293018](https://brandmeister.network/?page=repeater&id=293018) | [S55DIB](https://brandmeister.network/?page=lh&ContextID=%5E293018$) | Karlovica, Il. Bistrica | 293, 293112 | 29310 | 439.375 | 431.775 | 1 
-[293019](https://brandmeister.network/?page=repeater&id=293019) | [S55UBO](https://brandmeister.network/?page=lh&ContextID=%5E293019$) | Kobla| 293, 293112 | 29311 | 439.050 | 431.4500 | 1 
-[293020](https://brandmeister.network/?page=repeater&id=293020) | [S55DSX](https://brandmeister.network/?page=lh&ContextID=%5E293020$) | Sv. Rok, Sevnica| 293, 293112 | 2934 | 438.25 | 430.65 | 1 
+[293019](https://brandmeister.network/?page=repeater&id=293019) | [S55UBO](https://brandmeister.network/?page=lh&ContextID=%5E293019$) | Kobla| 293, 293112 | 29311 | 439.025 | 431.425 | 1 
+[293020](https://brandmeister.network/?page=repeater&id=293020) | [S55DSX](https://brandmeister.network/?page=lh&ContextID=%5E293020$) | Sv. Rok, Sevnica| 293, 293112 | 2934 | 439.05 | 431.45 | 1 
 [293022](https://brandmeister.network/?page=repeater&id=293022) | [S55DSL](https://brandmeister.network/?page=lh&ContextID=%5E293022$) | Lubnik, Skofja Loka| 293, 293112 | 2934 | 438.25 | 430.65 | 1 
 [293023](https://brandmeister.network/?page=repeater&id=293023) | [S55DSK](https://brandmeister.network/?page=lh&ContextID=%5E293023$) | Slavnik | 293, 293112 | 2935, 2936| 439.225 | 431.625 | 1 
 [293025](https://brandmeister.network/?page=repeater&id=293025) | [S55DSN](https://brandmeister.network/?page=lh&ContextID=%5E293025$) | Kokos, Sezana| 293, 293112 | 2935, 2936 | 438.5 | 430.9 | 1 

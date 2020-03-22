@@ -33,6 +33,11 @@ Permanent:
 
 https://www.pistar.uk/dmr_bm_talkgroups.php
 
+## Other
+
+* 219 9A
+
+
 **Tilen Cestnik** via Facebook: V S5 DMR omrežju se uporabljata dva time slota (dve časovni okni) in sicer :
 
 TS1, na katerem statično deluje slovenska govorna skupina 293 in skupina 293112 - ARON ter

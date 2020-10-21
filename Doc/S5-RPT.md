@@ -41,8 +41,8 @@
 🟢  [293040](https://brandmeister.network/?page=repeater&id=293040) | [S55UPI](https://brandmeister.network/?page=lh&ContextID=%5E293040$) | Beli Kriz, Piran | 293, 293112 | 2936 | 438.8 | 431.2 | 1 
 🟢  [293041](https://brandmeister.network/?page=repeater&id=293041) | [S55DCM](https://brandmeister.network/?page=lh&ContextID=%5E293041$) | Malic, Lasko | 293, 293112 | 2933 | 438.4250 | 430.8250 | 1 
 🔴  [293042](https://brandmeister.network/?page=repeater&id=293042) | [?](https://brandmeister.network/?page=lh&ContextID=%5E293042$) | ? | ? | ? | ? | ? | 1 
-🟢  ![293043](https://brandmeister.network/?page=repeater&id=293043) | [S55DKO](https://brandmeister.network/?page=lh&ContextID=%5E293043$) | Mala Kopa | 293, 293112 | 29312 | 438.3250 | 430.7250 | 1 
-🟢  ![293044](https://brandmeister.network/?page=repeater&id=293044) | [S55DMO](https://brandmeister.network/?page=lh&ContextID=%5E293044$) | Golte | 293, 293112 | 2933 | 438.5250 | 430.9250 | 1 
+🟢  ! [293043](https://brandmeister.network/?page=repeater&id=293043) | [S55DKO](https://brandmeister.network/?page=lh&ContextID=%5E293043$) | Mala Kopa | 293, 293112 | 29312 | 438.3250 | 430.7250 | 1 
+🟢  ! [293044](https://brandmeister.network/?page=repeater&id=293044) | [S55DMO](https://brandmeister.network/?page=lh&ContextID=%5E293044$) | Golte | 293, 293112 | 2933 | 438.5250 | 430.9250 | 1 
 🟢  [293100](https://brandmeister.network/?page=repeater&id=293100) | [S55DGV](https://brandmeister.network/?page=lh&ContextID=%5E293100$) | Ermanovec, Ziri | 293, 293112 | 2934 | 438.725 | 431.125 | 1 
 
 

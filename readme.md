@@ -31,9 +31,6 @@ Osnova za datoteko je pridobljena na spletni strani http://ham-dmr.si
 Podatki o registriranih DMR ID številkah pridobljeni s spletne strani http://ham-digital.org
 
 
-## Zanimive povezave
-
-[http://web1.foxhollow.ca/dmr/Contacts/MD380/]
 
 
 

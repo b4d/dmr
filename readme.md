@@ -10,15 +10,24 @@ Ažurna datoteka S5 kontaktov in različnih TG, primerna za uvoz v CPS_DMR in N0
 
 Vabljeni k prispevanju datotek, predlogov in popravkov.
 
+## Uvoz TG v CPS_DMR
+
+[S5-talkgroups-CPS_DMR.txt](dmr/Templates/CPS_DMR/S5-talkgroups-CPS_DMR.txt)
+
 ## Uvoz kontaktov v CPS_DMR programu
 
-POZOR: UVOZ KONTAKTOV PREPIŠE OBSTOJEČE KONTAKTE V CODEPLUG-U, PRED UVOZOM NAREDITE VARNOSTNO KOPIJO!
+> Datoteka ni posodobljena
+
+> POZOR: UVOZ KONTAKTOV PREPIŠE OBSTOJEČE KONTAKTE V CODEPLUG-U, PRED UVOZOM NAREDITE VARNOSTNO KOPIJO!
 
 Preberite obstoječi "codeplug" s postaje in izberite "Contacts".
 
 ![Import](Images/import.png)
 
-Izberite datoteko [S5-contacts-CPS_DMR.txt](CPS_DMR/S5-contacts-CPS_DMR.txt)
+Izberite datoteko [S5-contacts-CPS_DMR.txt](dmr/Templates/CPS_DMR/S5-contacts-CPS_DMR.txt)
+
+
+
 
 
 ## Preizkušene postaje

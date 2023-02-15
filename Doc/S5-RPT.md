@@ -24,7 +24,7 @@
 🟢  [293020](https://brandmeister.network/?page=repeater&id=293020) | [S55DSX](https://brandmeister.network/?page=lh&ContextID=%5E293020$) | Sv. Rok, Sevnica| 293, 293112 | 2934 | 439.05 | 431.45 | 1 
 🟢  [293022](https://brandmeister.network/?page=repeater&id=293022) | [S55DSL](https://brandmeister.network/?page=lh&ContextID=%5E293022$) | Lubnik, Skofja Loka| 293, 293112 | 2934 | 438.25 | 430.65 | 1 
 🟢  [293023](https://brandmeister.network/?page=repeater&id=293023) | [S55DSK](https://brandmeister.network/?page=lh&ContextID=%5E293023$) | Slavnik | 293, 293112 | 2935, 2936| 439.225 | 431.625 | 1 
-🔴  [293024](https://brandmeister.network/?page=repeater&id=293024) | [?](https://brandmeister.network/?page=lh&ContextID=%5E293024$) | ? | ? | ? | ? | ? | 1 
+🔴  [293024](https://brandmeister.network/?page=repeater&id=293024) | [S55DBK](https://brandmeister.network/?page=lh&ContextID=%5E293024$) | Mirna Gora | 293, 293112 | 2937 | 438.3250 | 430.7250 | 3 
 🟢  [293025](https://brandmeister.network/?page=repeater&id=293025) | [S55DSN](https://brandmeister.network/?page=lh&ContextID=%5E293025$) | Kokos, Sezana| 293, 293112 | 2935, 2936 | 438.5 | 430.9 | 1 
 🟢  [293026](https://brandmeister.network/?page=repeater&id=293026) | [S55DSN](https://brandmeister.network/?page=lh&ContextID=%5E293026$) | Sentjur| 293, 293112 | 2933 | 438.45 | 430.8500 | 1 
 🟢  [293028](https://brandmeister.network/?page=repeater&id=293028) | [S55UKA](https://brandmeister.network/?page=lh&ContextID=%5E293028$) | Velika planina| 293, 293112 | 2931, 2934 | 438.925 | 431.325 | 1 

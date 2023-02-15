@@ -12,7 +12,7 @@ Vabljeni k prispevanju datotek, predlogov in popravkov.
 
 ## Uvoz TG v CPS_DMR
 
-[S5-talkgroups-CPS_DMR.txt](dmr/Templates/CPS_DMR/S5-talkgroups-CPS_DMR.txt)
+[S5-talkgroups-CPS_DMR.txt](Templates/CPS_DMR/S5-talkgroups-CPS_DMR.txt)
 
 ## Uvoz kontaktov v CPS_DMR programu
 
@@ -24,7 +24,7 @@ Preberite obstoječi "codeplug" s postaje in izberite "Contacts".
 
 ![Import](Images/import.png)
 
-Izberite datoteko [S5-contacts-CPS_DMR.txt](dmr/Templates/CPS_DMR/S5-contacts-CPS_DMR.txt)
+Izberite datoteko [S5-contacts-CPS_DMR.txt](Templates/CPS_DMR/S5-contacts-CPS_DMR.txt)
 
 
 

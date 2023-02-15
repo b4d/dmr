@@ -34,7 +34,7 @@
 🟢  [293031](https://brandmeister.network/?page=repeater&id=293031) | [S55DST](https://brandmeister.network/?page=lh&ContextID=%5E293031$) | Mobile RK Novo Mesto | 293, 293112 | 2937 | 438.5250 | 430.9250 | 1 
 🟢  [293032](https://brandmeister.network/?page=repeater&id=293032) | [S55DKE](https://brandmeister.network/?page=lh&ContextID=%5E293032$) | Knezak | 293, 293112 | / | 439.2 | 431.6 | 1 
 🟢  [293033](https://brandmeister.network/?page=repeater&id=293033) | [S55DLM](https://brandmeister.network/?page=lh&ContextID=%5E293033$) | Ljubljana center | 293, 293112 | 2935, 2936 | 439.0750 | 431.4750 | 1 
-🔴  [293034](https://brandmeister.network/?page=repeater&id=293034) | [?](https://brandmeister.network/?page=lh&ContextID=%5E293034$) | ? | ? | ? | ? | ? | 1 
+🟢  [293034](https://brandmeister.network/?page=repeater&id=293034) | [S55DPO](https://brandmeister.network/?page=lh&ContextID=%5E293034$) | Pecna reber, Postojna | 293, 293112 | 29310, 293101 | 145.7125 | 145.1125 | 1 
 🟢  [293035](https://brandmeister.network/?page=repeater&id=293035) | [S55USG](https://brandmeister.network/?page=lh&ContextID=%5E293035$) | Korada | 293, 293112 | 2931 | 438.5 | 430.9 | 1 
 🟢  [293036](https://brandmeister.network/?page=repeater&id=293036) | [S55DTO](https://brandmeister.network/?page=lh&ContextID=%5E293036$) | Tolmin | 293, 293112 | 2935 | 439.275 | 431.675 | 1 
 🟢  [293037](https://brandmeister.network/?page=repeater&id=293037) | [S55DRI](https://brandmeister.network/?page=lh&ContextID=%5E293037$) | Travna gora, Ribnica | 293, 293112 | 2931 | 438.35 | 430.75 | 1 
